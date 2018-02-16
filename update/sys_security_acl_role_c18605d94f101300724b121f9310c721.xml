@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-14 11:01:12</sys_created_on>
+        <sys_id>c18605d94f101300724b121f9310c721</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_177618_needit_innovate.x_177618_needit.innovate_user</sys_name>
+        <sys_package display_value="NeedIT" source="x_177618_needit">5324c5554f101300724b121f9310c7b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">5324c5554f101300724b121f9310c7b1</sys_scope>
+        <sys_security_acl display_value="x_177618_needit_innovate">898605d94f101300724b121f9310c71e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c18605d94f101300724b121f9310c721</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-14 11:01:12</sys_updated_on>
+        <sys_user_role display_value="x_177618_needit.innovate_user" name="x_177618_needit.innovate_user">018649d14f101300724b121f9310c703</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
