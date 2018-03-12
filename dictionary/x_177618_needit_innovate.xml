@@ -10,6 +10,7 @@
                 <element label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="other" max_length="40" name="u_other" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="New String" mandatory="true" max_length="125" name="u_string_2" type="string"/>
     </element>
 </database>
